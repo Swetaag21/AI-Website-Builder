@@ -22,10 +22,6 @@ app.use(cors({
         "http://localhost:5173",
         "https://ai-website-builder-1-n68b.onrender.com"
     ],
-    
-   // origin:
-        //     "http://localhost:5173",
-        // process.env.FRONTEND_URL
         
         // "http://localhost:5173",
         // "https://ai-website-builder-1-n68b.onrender.com"
