@@ -20,7 +20,7 @@ app.use(cors({
 
   origin: [
         "http://localhost:5173",
-        "https://ai-website-builder-1-n68b.onrender.com"
+        "https://ai-website-builderfrontend.onrender.com"
     ],
         
         // "http://localhost:5173",
